@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_back.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_check.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_copy.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_delete.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_edit.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_home.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_lock.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_more_vertical.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_not_visible.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_person.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_refresh.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_search.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_settings.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/ic_visible.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/toggle_selector.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/drawable/toggle_selector_home.xml" value="0.1265" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/activity_login_user.xml" value="0.3333333333333333" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/activity_main.xml" value="0.1578125" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/activity_password_add_edit.xml" value="0.1578125" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/activity_password_list.xml" value="0.1578125" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/activity_password_view.xml" value="0.1578125" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/activity_register_user.xml" value="0.22" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/activity_splash_screen.xml" value="0.1578125" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/activity_verify_password.xml" value="0.1578125" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/feeedback_form.xml" value="0.1578125" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/fragment_account_section.xml" value="0.35683760683760685" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/fragment_password_generator.xml" value="0.13148148148148148" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/layout/single_item_password.xml" value="0.13148148148148148" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/menu/bottomnav.xml" value="0.1578125" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/menu/cancel.xml" value="0.1578125" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/menu/delete.xml" value="0.1578125" />
+        <entry key="..\:/WORK/Pass Vault/app/src/main/res/menu/search.xml" value="0.1578125" />
+        <entry key="app/src/main/res/layout/activity_password_add_edit.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

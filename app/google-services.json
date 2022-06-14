@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "467970334989",
+    "project_id": "passvault-7279d",
+    "storage_bucket": "passvault-7279d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467970334989:android:3887005d067d9efbebd044",
+        "android_client_info": {
+          "package_name": "com.finalproject.passvault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467970334989-j0vc245bl6om6nfc5085lisvmfigeo36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalproject.passvault",
+            "certificate_hash": "4503f1abdc9a2846958b787fa0c5aa9b01f61301"
+          }
+        },
+        {
+          "client_id": "467970334989-tuhf510g9tcjen9sld4mhk9hhp1q6b3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPo5yiN8TapYM7OFXLt5AAysuJZGbjKXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467970334989-tuhf510g9tcjen9sld4mhk9hhp1q6b3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
